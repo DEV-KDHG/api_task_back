@@ -1,0 +1,19 @@
+### 
+POST http://localhost:9000/api/task HTTP/1.1
+Content-Type: application/json
+
+
+
+###
+
+GET http://localhost:9000/api/tasks HTTP/1.1
+
+###
+GET http://localhost:9000/api/task/  HTTP/1.1
+###
+
+//PUT http://localhost:9000/api/users/667a2c7196705d963528a196 HTTP/1.1
+
+
+###
+DELETE  http://localhost:9000/api/task/ HTTP/1.1
